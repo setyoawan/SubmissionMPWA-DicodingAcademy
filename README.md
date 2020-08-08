@@ -34,7 +34,6 @@ Ganti {id_tim} dengan id tim (bisa dilihat dari standing).
 
 # Saran Submission
 Submission Anda akan dinilai oleh reviewer dengan penilaian bintang berskala 1-5 berdasarkan dari parameter yang ada.
-
 Anda dapat menerapkan beberapa saran untuk mendapatkan nilai tinggi, berikut sarannya:
 
 - Menerapkan saran yang diberikan reviewer pada submission sebelumnya.
@@ -49,7 +48,6 @@ Detail penilaian submission:
 - Jika submission Anda ditolak maka tidak ada penilaian. Kriteria penilaian bintang di atas hanya berlaku jika submission Anda lulus.
 
 
-
 # Submission yang Tidak Sesuai Kriteria
 Jika submission Anda tidak sesuai dengan kriteria, maka akan ditolak oleh reviewer, berikut poin-poinnya:
 
@@ -57,3 +55,6 @@ Jika submission Anda tidak sesuai dengan kriteria, maka akan ditolak oleh review
 - Aplikasi yang dideploy tidak dapat berjalan sesuai kriteria yang ditentukan (pastikan proyek berjalan normal pada local maupun hosting).
 - Tidak menyertakan link github pages atau firebase hosting dari aplikasi yang dibuat.
 - Menuliskan event install, activate, dan push secara manual (tidak memanfaatkan API dari Workbox, khusus untuk event push harus tetap dipertahankan).
+
+# Deploy 
+http://beauty-seriea27.web.app/
