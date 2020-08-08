@@ -1,4 +1,4 @@
-# SubmissionMPWA-DicodingAcademy
+# Progressive Web Apps Dicoding Academy
 
 # Kriteria Submission
 Berikut kriteria submission yang harus Anda penuhi:
